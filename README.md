@@ -1,83 +1,68 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,50:0B1026,100:00F0FF&text=PRANAV%20BIRHADE&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cinematic%203D%20Developer%20%E2%80%A2%20Neon%20Void%20Engine&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:050816,40:0B1026,100:00F0FF&text=PRANAV.exe&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=VOID%20OS%20INITIALIZED&descAlignY=60"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=INITIALIZING+VOID+ENGINE...;3D+Frontend+Developer;Building+Cinematic+Web+Experiences;React+%E2%80%A2+Three.js+%E2%80%A2+GSAP;Dark+Neon+Interface+Architect" />
-
-<br><br>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R2cnRrM2t1MWh3b3Fyb2x5bTVnZ2F6bDduOW5jY3g2eGwwdDBrNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=850&lines=3D+Frontend+Engineer;Building+Cinematic+Digital+Experiences;React+%E2%80%A2+Three.js+%E2%80%A2+GSAP;Dark+Neon+Interface+Architect" />
 
 </div>
 
 ---
 
-# 🌌 VOID TERMINAL
+<div align="center">
+
+```txt
+> SYSTEM STATUS: ONLINE
+> VOID ENGINE: ACTIVE
+> EXPERIENCE MODE: CINEMATIC
+```
+
+</div>
+
+---
+
+# 🌌 ABOUT
 
 ```yaml
-SYSTEM_NAME: PRANAV.exe
-STATUS: ONLINE
+name: PRANAV BIRHADE
+role: Frontend Developer
 
-ROLE: Cinematic Frontend Developer
-SPECIALIZATION:
+focus:
+  - Cinematic Interfaces
   - 3D Web Experiences
-  - Immersive Interfaces
-  - Smooth Parallax Animations
-  - Futuristic UI Systems
+  - Smooth Motion Systems
+  - Futuristic UI Design
 
-CURRENTLY_LEARNING:
+currently_learning:
   - Three.js
   - GSAP
   - WebGL
-  - Advanced React Motion
-
-MISSION:
-  Building interfaces that feel alive.
 ```
 
 ---
 
-# 🧊 GLASS UI STACK
+# ⚡ TECH
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,threejs,vercel,figma,blender,github,vscode" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,threejs,nodejs,vercel,figma,blender"/>
 
 </div>
 
 ---
 
-# ⚡ ACTIVE MODULES
+# 🌠 GITHUB CORE
 
 <div align="center">
 
-| SYSTEM | STATUS |
-|---|---|
-| 🎬 Cinematic UI Engine | ACTIVE |
-| 🌌 3D Environment Systems | LOADING |
-| ⚡ Smooth GSAP Motion | ACTIVE |
-| 🧊 Glassmorphism Interfaces | ACTIVE |
-| 🚀 Advanced Frontend Systems | EVOLVING |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PRANAVBIRHADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVBIRHADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 </div>
 
 ---
-
-# 🌠 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PRANAVBIRHADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVBIRHADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🔥 NEURAL ACTIVITY
 
 <div align="center">
 
@@ -87,32 +72,19 @@ MISSION:
 
 ---
 
-# 🌌 CONTRIBUTION MATRIX
+# 🌌 CURRENT MISSION
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+```txt
+Designing interfaces that feel alive.
+Not just websites —
+digital cinematic experiences.
+```
 
 </div>
 
 ---
-
-# 🎮 FEATURED PROJECTS
-
-<div align="center">
-
-| PROJECT | DESCRIPTION |
-|---|---|
-| 🌌 VOID Portfolio | Cinematic 3D developer experience |
-| ⚡ Neon Landing Page | Smooth parallax interface |
-| 🧊 Glass UI System | Futuristic component architecture |
-| 🎬 Motion Experiments | High-end animation concepts |
-
-</div>
-
----
-
-# 🌍 CONNECT_PROTOCOL
 
 <div align="center">
 
@@ -123,23 +95,6 @@ MISSION:
 <a href="https://instagram.com/YOUR_INSTAGRAM">
 <img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00F0FF"/>
 </a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
-</a>
-
-</div>
-
----
-
-# 💫 CINEMATIC PHILOSOPHY
-
-<div align="center">
-
-```txt
-"Not just building websites.
-Creating digital experiences that feel cinematic."
-```
 
 </div>
 
