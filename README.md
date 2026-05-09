@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,40:050816,100:00F0FF&text=BLACKBOX%20AI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=ACCESS%20GRANTED&descAlignY=60"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=34&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=1000&height=70&lines=BLACKBOX+AI+INITIALIZED;PRANAV.exe+ONLINE;3D+CINEMATIC+INTERFACE+ENGINEER;NEURAL+SYSTEM+ACTIVE" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=INITIALIZING+NEURAL+SYSTEM...;3D+Frontend+Engineer;Building+Cinematic+Digital+Experiences;React+%E2%80%A2+Three.js+%E2%80%A2+GSAP;BLACKBOX+AI+ONLINE" />
+<img src="https://media.giphy.com/media/3o7TKsQ8UQ5lH7bTO0/giphy.gif" width="100%"/>
 
 </div>
 
@@ -12,86 +16,120 @@
 
 <div align="center">
 
+# 🌌 BLACKBOX AI
+
 ```txt
-> ACCESS LEVEL : GRANTED
-> AI CORE STATUS : ACTIVE
-> CINEMATIC ENGINE : RUNNING
+┌─────────────────────────────────────────────┐
+│  ACCESS LEVEL : AUTHORIZED                 │
+│  NEURAL CORE  : ACTIVE                     │
+│  RENDER MODE  : CINEMATIC                  │
+│  SYSTEM STATE : ONLINE                     │
+└─────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 🌌 SYSTEM CORE
+# ⚡ SYSTEM CORE
+
+<div align="center">
 
 ```yaml
-ENTITY: PRANAV BIRHADE
+ENTITY:
+  PRANAV BIRHADE
 
 ROLE:
-  - Frontend Developer
-  - 3D Experience Engineer
-  - Cinematic Interface Designer
+  3D FRONTEND ENGINEER
 
 SPECIALIZATION:
-  - Immersive Web Systems
-  - Dark Neon UI
-  - Motion Architecture
-  - Glassmorphism Interfaces
+  • CINEMATIC UI SYSTEMS
+  • IMMERSIVE WEB EXPERIENCES
+  • GLASSMORPHISM INTERFACES
+  • DARK NEON VISUALS
+  • MOTION ARCHITECTURE
 
-CURRENT RESEARCH:
-  - Three.js
-  - WebGL
-  - GSAP
-  - Advanced UI Motion
+CURRENTLY RESEARCHING:
+  • THREE.JS
+  • GSAP
+  • WEBGL
+  • ADVANCED UI MOTION
 ```
 
+</div>
+
 ---
 
-# ⚡ NEURAL STACK
+# 🌌 NEURAL STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,threejs,nodejs,vercel,figma,blender"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,tailwind,nodejs,threejs,vercel,figma,blender,vscode,github" />
 
 </div>
 
 ---
 
-# 🌠 AI PROCESSING
+# 🎬 CINEMATIC INTERFACE MATRIX
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PRANAVBIRHADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PRANAVBIRHADE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVBIRHADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVBIRHADE&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F0FF&text_color=ffffff"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=PRANAVBIRHADE&theme=tokyonight&hide_border=true&background=000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
 
 </div>
 
 ---
 
+# 🔮 ACTIVE MODULES
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=PRANAVBIRHADE&theme=tokyonight&hide_border=true&background=000000"/>
+| MODULE | STATUS |
+|---|---|
+| 🌌 3D EXPERIENCE ENGINE | ONLINE |
+| ⚡ MOTION SYSTEM | ACTIVE |
+| 🎬 CINEMATIC UI CORE | ACTIVE |
+| 🧊 GLASS INTERFACE ENGINE | RUNNING |
+| 🚀 FUTURE SYSTEMS | EVOLVING |
 
 </div>
 
 ---
 
-# 🌌 ACTIVE DIRECTIVE
+# 🌠 VISUAL DIRECTIVE
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
 ```txt
-Building futuristic interfaces
-that feel less like websites
-and more like cinematic realities.
+Not building normal websites.
+
+Building digital experiences
+that feel alive.
 ```
 
 </div>
 
 ---
 
-# 🔮 ACCESS TERMINAL
+# 🌌 ACCESS TERMINAL
 
 <div align="center">
 
@@ -103,6 +141,10 @@ and more like cinematic realities.
 <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF"/>
 </a>
 
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00F0FF"/>
+</a>
+
 </div>
 
 ---
@@ -110,8 +152,9 @@ and more like cinematic realities.
 <div align="center">
 
 ```txt
-BLACKBOX AI v3.0
-Neural Interface Initialized
+BLACKBOX AI v4.0
+
+NEURAL INTERFACE SUCCESSFULLY CONNECTED
 ```
 
 </div>
@@ -120,6 +163,6 @@ Neural Interface Initialized
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:00F0FF,40:050816,100:000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:00F0FF,40:050816,100:000000"/>
 
 </div>
